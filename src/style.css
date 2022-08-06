@@ -20,6 +20,7 @@ li {
   font-size: 16px;
   line-height: 18px;
   font-weight: 100;
+  text-transform: capitalize;
 }
 
 .weather-app-boxing {
@@ -38,21 +39,20 @@ li {
 }
 
 img {
-  margin-right: 10px;
+  margin-right: 5px;
   height: 64px;
   width: 64px;
 }
 
-.col-4 {
+.temperature {
   color: #4361b9;
   font-size: 40px;
-  font-weight: 400;
-  top: -10px;
+  font-weight: 300;
   padding: 0;
 }
 
-.col-4 small {
+.units {
   position: relative;
   font-size: 16px;
-  top: -17px;
+  top: -15px;
 }
