@@ -32,3 +32,27 @@ li {
   border: 1px solid rgb(179, 169, 169);
   border-radius: 7px;
 }
+
+.location {
+  margin-bottom: 20px;
+}
+
+img {
+  margin-right: 10px;
+  height: 64px;
+  width: 64px;
+}
+
+.col-4 {
+  color: #4361b9;
+  font-size: 40px;
+  font-weight: 400;
+  top: -10px;
+  padding: 0;
+}
+
+.col-4 small {
+  position: relative;
+  font-size: 16px;
+  top: -17px;
+}
